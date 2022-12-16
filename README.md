@@ -9,3 +9,4 @@
 Hasil Praktikum:
 
 <img src="./images/img1.png" height="500" alt="Screenshot"/>
+<img src="./images/img2.png" height="500" alt="Screenshot"/>

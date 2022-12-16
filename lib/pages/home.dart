@@ -18,7 +18,7 @@ class HomeState extends State<Home> {
   List<Item>? itemList;
   @override
   Widget build(BuildContext context) {
-    updateListView();
+    //updateListView();
 
     itemList ??= <Item>[];
     return Scaffold(
